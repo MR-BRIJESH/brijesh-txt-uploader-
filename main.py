@@ -1268,9 +1268,9 @@ async def brijesh_handler(client: Client, m: Message):
                 
             try:                
                 cc = f'**🎥 VIDEO ID: {str(count).zfill(3)}.\n\n📄 Title: {name1} {res} ⎳𝓸𝓿𝓮❥❤️━━╬٨ﮩ𝑩𝕣ΐ𝕛℮𝚜Ꮒ٨ـﮩـ Love❥.mkv\n\n<pre><code>🔖 Batch Name: {b_name}</code></pre>\n\n📥 Extracted By : {CR}**'
-                cc1 = f'**📁 FILE ID: {str(count).zfill(3)}.\n\n📄 Title: {name1} 𝄟✮͢🦋⃟≛⃝Anjali.pdf \n\n<pre><code>🔖 Batch Name: {b_name}</code></pre>\n\n📥 Extracted By : {CR}**'
-                cc2 = f'**📁 FILE ID: {str(count).zfill(3)}.\n\n📄 Title: {name1} 𝄟✮͢🦋⃟≛⃝Anjali.html \n\n<pre><code>🔖 Batch Name: {b_name}</code></pre>\n\n📥 Extracted By : {CR}**'
-                cc3 = f'**📷 IMAGE ID: {str(count).zfill(3)}.\n\n📄 Title: {name1} 𝄟✮͢🦋⃟≛⃝Anjali.png \n\n<pre><code>🔖 Batch Name: {b_name}</code></pre>\n\n📥 Extracted By : {CR}**'
+                cc1 = f'**📁 FILE ID: {str(count).zfill(3)}.\n\n📄 Title: {name1} 💫𝄟✮͢🦋⃟≛⃝𝑩𝕣ΐ𝕛℮𝚜Ꮒ✮⃝🩷✨.pdf \n\n<pre><code>🔖 Batch Name: {b_name}</code></pre>\n\n📥 Extracted By : {CR}**'
+                cc2 = f'**📁 FILE ID: {str(count).zfill(3)}.\n\n📄 Title: {name1} 💫𝄟✮͢🦋⃟≛⃝𝑩𝕣ΐ𝕛℮𝚜Ꮒ✮⃝🩷✨.html \n\n<pre><code>🔖 Batch Name: {b_name}</code></pre>\n\n📥 Extracted By : {CR}**'
+                cc3 = f'**📷 IMAGE ID: {str(count).zfill(3)}.\n\n📄 Title: {name1} 𝄟✮͢🦋⃟≛⃝𝑩𝕣ΐ𝕛℮𝚜Ꮒ✮⃝🩷✨.png \n\n<pre><code>🔖 Batch Name: {b_name}</code></pre>\n\n📥 Extracted By : {CR}**'
                                                  
                 if "drive" in url:
                     try:
